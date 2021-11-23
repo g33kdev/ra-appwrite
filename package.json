@@ -1,0 +1,33 @@
+{
+  "name": "ra-appwrite",
+  "version": "0.1.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/g33kdev/ra-appwrite.git"
+  },
+  "keywords": [
+    "react-admin",
+    "appwrite"
+  ],
+  "author": "Steven Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/g33kdev/ra-appwrite/issues"
+  },
+  "homepage": "https://github.com/g33kdev/ra-appwrite#readme",
+  "devDependencies": {
+    "appwrite": "^5.0.0",
+    "ra-core": "^3.19.1"
+  }
+}
