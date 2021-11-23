@@ -1,5 +1,8 @@
 # ra-appwrite
 
+[![Stable Release](https://img.shields.io/npm/v/ra-appwrite)](https://www.npmjs.com/package/ra-appwrite)
+![License](https://img.shields.io/github/license/g33kdev/ra-appwrite.svg?style=flat-square)
+
 This package provides a Data Provider and Auth Provider to integrate [Appwrite](https://appwrite.io/) with [react-admin](https://marmelab.com/react-admin).
 
 The Data Provider supports:
