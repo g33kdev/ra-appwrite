@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/g33kdev/ra-appwrite#readme",
   "devDependencies": {
-    "appwrite": "^5.0.0",
+    "appwrite": "^11.0.0",
     "ra-core": "^3.19.1"
   }
 }
